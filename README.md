@@ -9,7 +9,7 @@
 * GameInstanceを作成した Create GameIsntace
 
 ## 実行 Execute
-* [パッケージ化する Packaging](https://github.com/horinoh/UE4DedicatedServer/tree/master/Document/Packaging)
-* PIEでは「ローディング画面」に行かないので、Package/WindowsNoEditor/UE4LoadingScreen.exe を起動する Because PIE will not go loading screen, execute Package/WindowsNoEditor/UE4LoadingScreen.exe
-* マップの移動はコンソールコマンド(@)で open GreenMap のようにする From console command, "open GreenMap"
-* マップ移動中に「ローディング画面」が出ればOK On map transition, loading screen will appear
+* [パッケージ化する (Do packaging)](https://github.com/horinoh/UE4DedicatedServer/tree/master/Document/Packaging)
+* PIEでは「ローディング画面」に行かないので、(Package/WindowsNoEditor/UE4LoadingScreen.exe を起動する Because PIE will not go loading screen, execute Package/WindowsNoEditor/UE4LoadingScreen.exe)
+* マップの移動はコンソールコマンド(@)で open GreenMap のようにする (From console command, "open GreenMap")
+* マップ移動中に「ローディング画面」が出ればOK (On map transition, loading screen will appear)
